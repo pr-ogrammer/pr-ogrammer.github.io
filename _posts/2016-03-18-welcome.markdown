@@ -5,9 +5,9 @@ date:   2016-03-18 8:00:00 +0100
 categories: jekyll update
 ---
 
-In order to understand recursion, one must first understand recursion.
+Today's quote: "In order to understand recursion, one must first understand recursion."
 
-Some funny `JAVA` code:
+And some funny/freaky `JAVA` code:
 
 {% highlight ruby %}
 static {
