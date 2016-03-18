@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2016-03-18 8:00:00 +0100
+categories: jekyll update
+---
+
+In order to understand recursion, one must first understand recursion.
+
+Some funny `JAVA` code:
+
+{% highlight ruby %}
+static {
+	try {
+		Field value = String.class.getDeclaredField("value");
+		value.setAccessible(true);
+		value.set("Hello World", value.get("G'Day Mate."));
+	} catch (Exception e) {
+		throw new AssertionError(e);
+	}
+}
+
+public static void main(String[] args) {
+	System.out.println("Hello World");
+}
+#=> prints 'G'Day Mate.' to STDOUT.
+{% endhighlight %}
